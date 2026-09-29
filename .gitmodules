@@ -1,5 +1,3 @@
-[submodule "TodoApp"]
-	path = TodoApp
-	url = https://github.com/cgesgin/TodoAppKozmos.git
 [submodule "TodoAppKozmos"]
+	path = TodoAppKozmos
 	url = https://github.com/cgesgin/TodoAppKozmos.git
