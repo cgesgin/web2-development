@@ -1,22 +1,5 @@
-Web2
+# Web 2 Development
 
-This repository contains projects developed as part of the Web2 course.
-
-Projects
-
-1 TodoAppKozmos
-
-
-Resources
-
-Microsoft .NET Documentation
-
-ASP.NET Core Documentation
-
-C# Documentation
-
-Entity Framework Core Documentation
-
-Git Documentation
-
-GitHub Documentation
+## Resources
+- [Visual Studio Download](https://visualstudio.microsoft.com/downloads/)
+- [Texbook : Web Tabanlı Uygulama Geliştirme 11 - MEB PDF](https://meslek.meb.gov.tr/upload/dersmateryali/pdf/WEB%20TABANLI%20UYGULAMA%20GEL%C4%B0%C5%9ET%C4%B0RME%2011%20(Bili%C5%9Fim%20Teknolojileri)
